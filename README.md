@@ -21,11 +21,10 @@
       <td align="center">
         <h3>My Statistics</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalukaPiuminda&theme=tokyonight" alt="Top Langs" />
-      </td>
-      <!-- Right Side Animation Section -->
-      <td>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side Animation">
-      </td>
+      </td> 
+  </tr>
+    <tr>
+     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side Animation"> 
     </tr>
   </table>
 </div>
